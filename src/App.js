@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>Dictionary</h1>
+          <h1>Wise Donkey Sophie's Dictionary</h1>
           <img
             src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/112/981/original/DOnkey_Sonia_with_my_Apple.jpg?1706628660"
             className="App-logo img-fluid"
