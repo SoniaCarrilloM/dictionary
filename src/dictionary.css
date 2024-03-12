@@ -10,10 +10,10 @@
 }
 
 .Dictionary section {
-  background: white;
+  background: rgb(194, 250, 232);
   padding: 30px;
   border-radius: 8px;
-  box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+  box-shadow: 0 10px 20px rgb(0 0 0 / 200px);
   margin-left: 40px 0;
 }
 

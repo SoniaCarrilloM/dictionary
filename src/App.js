@@ -27,13 +27,13 @@ function App() {
             >
               Sonia Carrillo{" "}
             </a>
-            and is{" "}
+            and is open-sourced on{" "}
             <a
               href="https://github.com/SoniaCarrilloM/dictionary"
               target="_blank"
               rel="noreferrer noopener"
             >
-              open sourced on GitHub{" "}
+              GitHub{" "}
             </a>
             and hosted on{" "}
             <a
