@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Synonyms(props) {
+export default function synonyms(props) {
   if (props.synonyms) {
     return (
       <ul className="Synonyms">
