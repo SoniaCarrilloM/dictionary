@@ -3,13 +3,19 @@
   display: block;
   margin: 0 auto;
   border-radius: 30px;
+  border: 10px solid #a3a3ff;
 }
 
 .App h1 {
   text-align: center;
+  color: blueviolet;
 }
 .App-header {
   margin: 30 px 0;
+  background-color: hsl(83, 79%, 91%);
+  padding: 30px;
+  margin: 30px;
+  border-radius: 30px;
 }
 
 .App-footer {

@@ -2,4 +2,6 @@
   border-radius: 6px;
   margin-bottom: 25px;
   max-width: 200px;
+  justify-content: center;
+  position: center;
 }
