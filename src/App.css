@@ -5,6 +5,9 @@
   border-radius: 30px;
 }
 
+.App h1 {
+  text-align: center;
+}
 .App-header {
   margin: 30 px 0;
 }
