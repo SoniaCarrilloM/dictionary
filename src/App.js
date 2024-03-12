@@ -37,7 +37,7 @@ function App() {
             </a>
             and hosted on{" "}
             <a
-              href="https://dictionary-curiousdonkey.netlify.app/"
+              href="https://donkeysophiedictionary.netlify.app/"
               target="_blank"
               rel="noreferrer noopener"
             >
